@@ -1,5 +1,6 @@
 ## 你好！ 👋
 我们是ayakaOS的开发团队
+我们的Gitee链接：https://gitee.com/ayakaOS
 
 ayakaOS是一个基于Arch Linux的发行版
 <!--
