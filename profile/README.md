@@ -1,7 +1,7 @@
 ## 你好！ 👋
-我们是ayakaOS的开发团队
+我们是CaelumOS的开发团队
 
-ayakaOS是一个基于Arch Linux的发行版
+CaelumOS是一个基于Arch Linux的发行版
 
 <!--
 
